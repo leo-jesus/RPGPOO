@@ -1,0 +1,15 @@
+X:\DIO\RPGPOO\bin\Debug\net6.0\RPGPOO.exe
+X:\DIO\RPGPOO\bin\Debug\net6.0\RPGPOO.deps.json
+X:\DIO\RPGPOO\bin\Debug\net6.0\RPGPOO.runtimeconfig.json
+X:\DIO\RPGPOO\bin\Debug\net6.0\RPGPOO.dll
+X:\DIO\RPGPOO\bin\Debug\net6.0\ref\RPGPOO.dll
+X:\DIO\RPGPOO\bin\Debug\net6.0\RPGPOO.pdb
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.csproj.AssemblyReference.cache
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.GeneratedMSBuildEditorConfig.editorconfig
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.AssemblyInfoInputs.cache
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.AssemblyInfo.cs
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.csproj.CoreCompileInputs.cache
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.dll
+X:\DIO\RPGPOO\obj\Debug\net6.0\ref\RPGPOO.dll
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.pdb
+X:\DIO\RPGPOO\obj\Debug\net6.0\RPGPOO.genruntimeconfig.cache
