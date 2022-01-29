@@ -16,7 +16,15 @@ namespace RPGPOO.src.Entities
 
         public string Attack(int Bonus)
         {
-            return this.Name + " Lançou magia com Bonus de ataque de " + Bonus;
+            if (Bonus > 6)
+            {
+
+                return this.Name + " Lançou magia super efetiva com Bonus de ataque de " + Bonus;
+            }
+            else
+            {
+                return this.Name + " Lançou uma magia com força fraca com bonus de " + Bonus;
+            }
         }
     }
 }
